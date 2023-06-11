@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="8YOtVamTzpUrzvaIEsSdiWYnAFJdbKc7yDkqAZ5OljI" />
 # Machine-Learning-Specialization
  Specialization [link](https://www.coursera.org/specializations/machine-learning-introduction)
  
@@ -21,4 +22,3 @@ Programming Assignments:
 - [Deep Learning for Content-Based Filtering](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202/Lab%202/C3_W2_RecSysNN_Assignment.ipynb)
 - [Reinforcement Learning (Deep Q-Learning - Lunar Lander)](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203/C3_W3_A1_Assignment.ipynb)
 
-<meta name="google-site-verification" content="8YOtVamTzpUrzvaIEsSdiWYnAFJdbKc7yDkqAZ5OljI" />
