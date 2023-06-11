@@ -8,16 +8,16 @@ Programming Assignments:
 
 ## 2. Advanced Learning Algorithms
 Programming Assignments:
-- [Practice Lab: Neural Networks for Binary Classification](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/C2_W1_Assignment.ipynb)
-- [Practice Lab: Neural Networks for Multiclass classification](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/C2_W2_Assignment.ipynb)
-- [Practice Lab: Advice for Applying Machine Learning](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/C2_W3_Assignment.ipynb)
-- [Practice Lab: Decision Trees](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/C2_W4_Decision_Tree_with_Markdown.ipynb)
+- [Practice Lab: Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%201/C2_W1_Assignment.ipynb)
+- [Practice Lab: Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%202/C2_W2_Assignment.ipynb)
+- [Practice Lab: Advice for Applying Machine Learning](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%203/C2_W3_Assignment.ipynb)
+- [Practice Lab: Decision Trees](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/Week%204/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
 ## 3. Unsupervised Learning, Recommenders, Reinforcement Learning
 Programming Assignments:
-- [k-means](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_KMeans_Assignment.ipynb)
-- [Anomaly Detection](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_Anomaly_Detection.ipynb)
-- [Collaborative Filtering Recommender Systems](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_Collaborative_RecSys_Assignment.ipynb)
-- [Deep Learning for Content-Based Filtering](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_RecSysNN_Assignment.ipynb)
-- [Reinforcement Learning](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W3_A1_Assignment.ipynb)
+- [K-means Clustering](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201/Lab%201/C3_W1_KMeans_Assignment.ipynb)
+- [Anomaly Detection](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201/Lab%202/C3_W1_Anomaly_Detection.ipynb)
+- [Collaborative Filtering Recommender Systems](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202/Lab%201/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+- [Deep Learning for Content-Based Filtering](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202/Lab%202/C3_W2_RecSysNN_Assignment.ipynb)
+- [Reinforcement Learning (Deep Q-Learning - Lunar Lander)](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203/C3_W3_A1_Assignment.ipynb)
 
