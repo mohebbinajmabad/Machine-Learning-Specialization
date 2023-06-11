@@ -3,8 +3,8 @@
  
 ## 1. Supervised Machine Learning: Regression and Classification
 Programming Assignments:
-- [Week 2 practice lab: Linear regression]([https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning:%20Regression%20and%20Classification/C1_W2_Linear_Regression.ipynb](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202%20-%20Lab/C1_W2_Linear_Regression.ipynb))
-- [Week 3 practice lab: logistic regression]([https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning:%20Regression%20and%20Classification/C1_W3_Logistic_Regression.ipynb](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203%20-%20Lab/C1_W3_Logistic_Regression.ipynb))
+- [Week 2 practice lab: Linear regression](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202%20-%20Lab/C1_W2_Linear_Regression.ipynb)
+- [Week 3 practice lab: logistic regression](https://github.com/mohebbinajmabad/Machine-Learning-Specialization/blob/main/Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203%20-%20Lab/C1_W3_Logistic_Regression.ipynb)
 
 ## 2. Advanced Learning Algorithms
 Programming Assignments:
